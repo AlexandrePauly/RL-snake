@@ -27,6 +27,10 @@ Dans ce rendu le projet de reinforcement Learning comprenant une analyse d'artic
 
 >**_Attention :_** Évitez de modifier l'arborescence du projet pour ne pas casser les url !
 
+## Résultat
+
+<img width="633" height="509" alt="snake" src="https://github.com/user-attachments/assets/7ba6e36b-5cde-4709-86c9-dfbc3c5eb20e" />
+
 ## Auteur
 
 Réalisé par Maxime CLEMENCEAU, Julien HONOR, Alexandre PAULY et Laura SABADIE.
